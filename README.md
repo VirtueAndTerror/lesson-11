@@ -1,6 +1,7 @@
 ## Lesson-11
 
 Finally we update our sign-in component with our email/password sign in.
+End of Firebase + Authentication and Start of Redux
 
 # How to fork and clone
 
